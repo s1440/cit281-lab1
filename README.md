@@ -10,6 +10,3 @@ To set up the development environment and get familiar with basic tools used thr
 - How to install and configure VSCode  
 - How to run JavaScript files using Node.js in the terminal  
 - The basics of using the command line interface  
-
-**Images of Lab**
-- ![Lab 1 Image](lab1.png)  
