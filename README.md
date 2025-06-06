@@ -12,4 +12,4 @@ To set up the development environment and get familiar with basic tools used thr
 - The basics of using the command line interface  
 
 **Images of Lab**
-![Lab 1 Image](lab1.png)  
+- ![Lab 1 Image](lab1.png)  
